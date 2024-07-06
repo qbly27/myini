@@ -1,0 +1,79 @@
+# 直连列表
+
+# MyList
+DOMAIN-KEYWORD,baidu
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-KEYWORD,bilibili
+DOMAIN-SUFFIX,jianshu.com
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,douban.com
+DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,chatnio
+DOMAIN-KEYWORD,scholarscope
+DOMAIN-KEYWORD,flomoapp
+DOMAIN-KEYWORD,shoucangjia
+DOMAIN-KEYWORD,yuque
+DOMAIN-KEYWORD,pumc
+DOMAIN-SUFFIX,xiaoe-tech.com
+
+# Tencent
+DOMAIN-SUFFIX,foxmail.com
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,idqqimg.com
+DOMAIN-SUFFIX,igamecj.com
+DOMAIN-SUFFIX,myapp.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qqmail.com
+DOMAIN-SUFFIX,qqurl.com
+DOMAIN-SUFFIX,smtcdns.com
+DOMAIN-SUFFIX,smtcdns.net
+DOMAIN-SUFFIX,soso.com
+DOMAIN-SUFFIX,tencent-cloud.net
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,tencentmind.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weiyun.com
+
+# Kingsoft
+DOMAIN-SUFFIX,iciba.com
+DOMAIN-SUFFIX,ksosoft.com
+DOMAIN-SUFFIX,ksyun.com
+
+# Bilibili
+DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,bigfun.cn
+DOMAIN-SUFFIX,bigfunapp.cn
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.co
+DOMAIN-SUFFIX,biliintl.co
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,im9.com
+DOMAIN-SUFFIX,smtcdns.net
+
+# Iqiyi
+DOMAIN-SUFFIX,71.am
+DOMAIN-SUFFIX,71edge.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,ppsimg.com
+DOMAIN-SUFFIX,qiyi.com
+DOMAIN-SUFFIX,qiyipic.com
+DOMAIN-SUFFIX,qy.net
+
+
+# CN域名直连(中国|公司|网络)
+DOMAIN-SUFFIX,cn
+
+
