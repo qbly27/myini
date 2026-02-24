@@ -1,3 +1,4 @@
+# --- 已有规则 ---
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,pubmed.ncbi.nlm.nih.gov
 DOMAIN-SUFFIX,science.org
@@ -16,3 +17,33 @@ DOMAIN-KEYWORD,lobe
 DOMAIN-KEYWORD,tana
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,bmj.com
+
+# --- 综合学术平台 ---
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,tandfonline.com
+DOMAIN-SUFFIX,sagepub.com
+DOMAIN-SUFFIX,mdpi.com
+DOMAIN-SUFFIX,frontiersin.org
+DOMAIN-SUFFIX,plos.org
+DOMAIN-SUFFIX,cochranelibrary.com
+DOMAIN-SUFFIX,researchgate.net
+DOMAIN-SUFFIX,semanticscholar.org
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-KEYWORD,medrxiv
+DOMAIN-SUFFIX,doi.org
+DOMAIN-SUFFIX,scopus.com
+DOMAIN-SUFFIX,webofscience.com
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,ncbi.nlm.nih.gov
+DOMAIN-SUFFIX,uptodate.com
+
+# --- 皮肤科专科 ---
+DOMAIN-SUFFIX,jaad.org
+DOMAIN-SUFFIX,jidonline.org
+DOMAIN-SUFFIX,aad.org
+DOMAIN-SUFFIX,bad.org.uk
+DOMAIN-SUFFIX,dermnetnz.org
+DOMAIN-SUFFIX,karger.com
+DOMAIN-SUFFIX,skintherapyletter.com
+DOMAIN-SUFFIX,dermnet.com
